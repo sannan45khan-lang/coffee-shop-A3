@@ -4,9 +4,9 @@
 
 | | |
 |---|---|
-| **Group** | G__ <!-- TODO: add group number --> |
+| **Group** | G10 |
 | **Topic** | #12 – Coffee shop ordering |
-| **Members** | Sannan – 24i-2084 (Group Leader)<br>Mannan – 24i-2004<br>Abdul Rehman – 24i-2092 |
+| **Members** | Sannan Khan – 24i-2084 (Group Leader)<br>Mannan Bin Adnan – 24i-2004<br>Abdul Rehman – 24i-2092 |
 
 ## About the App
 
@@ -72,9 +72,9 @@ All other pages and components (Home, About, Navbar, Footer, DrinkCard, …) sta
 
 ## Links
 
-- **GitHub repository:** TODO – add link
+- **GitHub repository:** https://github.com/sannan45khan-lang/coffee-shop-A3
 - **Video demo:** TODO – add Google Drive / YouTube link (sharing: *Anyone with the link – Viewer*)
-- **Live site (Vercel bonus):** TODO – add link
+- **Live site (Vercel bonus):** https://coffee-shop-a3.vercel.app
 
 ## AI Tools Used
 
